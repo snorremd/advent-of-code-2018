@@ -1,4 +1,4 @@
-(ns chronal_abberation
+(ns chronal-abberation
   (:require [clojure.string :refer [split]]))
 
 
